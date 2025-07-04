@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Objective](#project-objective)
 - [Dataset](#dataset)
@@ -23,7 +23,7 @@
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - Analyzed **119,390 hotel bookings** to extract customer and operational insights.
 - Built **four interactive Power BI dashboards** (Product, Customer, Customer Behavior, Hospitality).
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### **Product Analysis Dashboard**
 
@@ -40,21 +40,23 @@ An interactive dashboard was created to analyze the distribution of city and res
 
 ![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Product%20Analysis%20Dashboard.png)
 
-
+---
 
 ### **Customer Analysis Dashboard**
 
 An interactive Customer Analysis Dashboard visualizes hotel bookings by customer type and market segment over the years. It includes bar charts showing annual customer distribution, a pie chart for market segment share, and a line graph tracking ADR trends over time. Additional charts display the counts of adults, children, and babies across segments, providing clear insights into guest distribution and evolving booking dynamics.
 
-
 ![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Customer%20Analysis%20Dashboard.png)
 
+---
 
 ### Customer Behaviour Dashboard
 
 A dynamic Customer Behavior Dashboard using a Butterfly Graph, TreeMap, Heat Map, and Bar Graph to analyze booking patterns, cancellations, changes, and retention across market segments. The Butterfly Graph and TreeMap highlight cancellation patterns by customer type, the Heat Map reveals which segments are prone to booking changes, and the Bar Graph tracks retention trends over the years for clear, actionable insights.
 
 ![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Customer%20Behaviour%20Dashboard.png)
+
+---
 
 ### Hospitality Dashboard
 
@@ -122,8 +124,6 @@ Performed using **Excel** and **SAS Viya**:
 ---
 
 ## Recommendations
-
-> 📌 This section is separated to guide decision-making without exposing direct charts.
 
 - **Optimize Inventory:** Increase availability of high-demand rooms (e.g., Room Type A).
 - **Boost Off-Season Occupancy:** Offer discounts, loyalty programs, and promotions during low seasons.
