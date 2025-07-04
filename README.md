@@ -34,7 +34,33 @@
 
 ## 📊 Dashboard Preview
 
-![Hospitality Power BI Dashboard](https://github.com/Mohammed-Hanzala-Khan/Business-Data-Analytics-Portfolio/blob/main/Hospitality_Dashboard_Preview.png)
+### **Product Analysis Dashboard**
+
+An interactive dashboard was created to analyze the distribution of city and resort hotels, market segments, customer wait times by arrival month, and room type preferences. A Geo Map displays the global distribution and booking volumes for each hotel type, while a TreeMap visualizes customer wait times across market segments. Bar charts highlight peak booking months and the most popular room types by segment and country.
+
+![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Product%20Analysis%20Dashboard.png)
+
+
+
+### **Customer Analysis Dashboard**
+
+An interactive Customer Analysis Dashboard visualizes hotel bookings by customer type and market segment over the years. It includes bar charts showing annual customer distribution, a pie chart for market segment share, and a line graph tracking ADR trends over time. Additional charts display the counts of adults, children, and babies across segments, providing clear insights into guest distribution and evolving booking dynamics.
+
+
+![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Customer%20Analysis%20Dashboard.png)
+
+
+### Customer Behaviour Dashboard
+
+A dynamic Customer Behavior Dashboard using a Butterfly Graph, TreeMap, Heat Map, and Bar Graph to analyze booking patterns, cancellations, changes, and retention across market segments. The Butterfly Graph and TreeMap highlight cancellation patterns by customer type, the Heat Map reveals which segments are prone to booking changes, and the Bar Graph tracks retention trends over the years for clear, actionable insights.
+
+![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Customer%20Behaviour%20Dashboard.png)
+
+### Hospitality Dashboard
+
+The Hospitality Dashboard leverages customer data to assess revenue and satisfaction using clear bar graphs. It analyzes ADR distribution across deposit types, identifies peak months for bookings, tracks meal type popularity, and explores the correlation between lead time and ADR for actionable operational insights.
+
+![Image](https://github.com/Mohammed-Hanzala-Khan/Navigating-The-World-Of-Hospitality/blob/main/Dashboards/Hospitality%20Dashboard.png)
 
 ---
 
