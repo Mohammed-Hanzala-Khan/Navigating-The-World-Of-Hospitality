@@ -26,7 +26,7 @@
 ## 📈 Key Results
 
 - Analyzed **119,390 hotel bookings** to extract customer and operational insights.
-- Built **four interactive Power BI dashboards** (Product, Customer, Behavior, Hospitality Revenue).
+- Built **four interactive Power BI dashboards** (Product, Customer, Customer Behavior, Hospitality).
 - Identified peak seasons, ADR patterns, and customer retention behavior.
 - Recommended **data-driven strategies** for pricing, inventory, and customer experience enhancement.
 
